@@ -1,4 +1,4 @@
-# Existing Peer-Reviewed Literature on Privacy Pertinent to Sewer Networks 
+# Existing Peer-Reviewed Literature on Privacy Pertinent to Wastewater-based Testing
 ### Table 1: Fine_Scale_Schmiege_data
 
 | Identifier                | DOI                                             |   Average population represented by sample |   Minimum population identified |   Number of Sites | Population estimation method                                                                  | Location                             | Anonymization method                   | Ethics of privacy addressed   |   Semantic | Notes                                                                                                                                                                                                                                                                                                                                                                              |
